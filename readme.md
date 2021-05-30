@@ -7,7 +7,7 @@
 ## Steps:
 
  <p align="center">
-  <img src="https://github.com/hajali-amine/SimplexAlgorithm/blob/main/assets/flowchart_simplex.png" alt="flowchart" />
+  <img src="https://github.com/hajali-amine/simplex-algorithm/blob/main/assets/flowchart_simplex.png" alt="flowchart" />
 </p>
 
 
